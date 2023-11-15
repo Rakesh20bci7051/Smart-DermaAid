@@ -1,0 +1,5 @@
+1.python
+2.tensflow
+3.keras
+4.raspberry pi
+5.TesnsorFlow lite
